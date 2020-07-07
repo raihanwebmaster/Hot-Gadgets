@@ -81,6 +81,7 @@ hr{
 .edit-boder{
     box-shadow: 5px 5px 10px lightgray;
     border-radius: 15px;
+    background-color: rgb(248, 247, 247);
     
 }
 .pale-order img{
