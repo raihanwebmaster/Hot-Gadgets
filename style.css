@@ -1,1 +1,79 @@
+.container{
+    margin-bottom: 100px;
+}
+ /* This is the main tag in first section work. */
+.main-bg{
+    background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: 0 380px;
+    height: 600px;
+    margin-bottom: 100px;   
+}
+.white-bg{
+   background-image: url(images/bg-1.png);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: 85px;
+   height: 500px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.Price{
+    font-weight: 550;
+}
+.buy-now-button{
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.carousel-indicators{
+    bottom: -175px;
+}
+.carousel-indicators .active{
+    background-color: tomato;
+    width: 50px;
+}
+.carousel-indicators li{
+    height: 8px;
+    width: 16px;
+    border-radius: 5px;
+    border: 0;
+    opacity: 1;
+    background-color: lightgray;
+}
+/* This is the main tag in 2nd,3rd section work. */
+.heading-line h6{
+    color: indianred;
+}
+ h3{
+    font-weight: 600;
+}
+.card-deck{
+    padding: 45px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 15px;
+    text-align: center;
+}
+.card img{
+    padding: 30px;
+}
+.card-body h5{
+    font-weight: 600;
+}
+/* This is the main tag in 4th section work. */
+hr{
+    height: 5px;
+    width: 108px;
+    background-image: linear-gradient(to right, orange ,indianred  );
+    border-radius: 10px; 
+}
+
 
