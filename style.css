@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 100px;
+    margin-bottom: 70px;
 }
  /* This is the main tag in first section work. */
 .main-bg{
@@ -74,6 +74,17 @@ hr{
     width: 108px;
     background-image: linear-gradient(to right, orange ,indianred  );
     border-radius: 10px; 
+}
+.hero{
+    margin-top: 70px;
+}
+.edit-boder{
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 15px;
+    
+}
+.pale-order img{
+    margin-top: 60px;
 }
 
 
